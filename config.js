@@ -41,8 +41,8 @@ const CONFIG = {
 	// Autochange by OS
 	changeThemeByOS: false,
 
-	// Select a default theme
-	default: 'dark',
+	// Select a default theme -> dark or white
+	defaultTheme: 'dark',
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
