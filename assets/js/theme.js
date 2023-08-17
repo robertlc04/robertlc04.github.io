@@ -61,3 +61,12 @@ if (CONFIG.changeThemeByHour && CONFIG.autoChangeTheme && !CONFIG.changeThemeByO
 		disableDark();
 	}
 }
+
+if (CONFIG.defaultTheme != null && CONFIG.defaultTheme = 'dark') {
+	enableDark();
+}
+
+
+if (CONFIG.defaultTheme != null && CONFIG.defaultTheme = 'light') {
+	disableDark();
+}
