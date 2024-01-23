@@ -74,9 +74,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Refold',
+			icon: 'book',
+			link: 'https://refold.la/es/',
 		},
 		{
 			id: '5',
