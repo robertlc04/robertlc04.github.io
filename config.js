@@ -68,9 +68,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Milanote',
+			icon: 'notebook-pen',
+			link: 'https://app.milanote.com/login',
 		},
 		{
 			id: '4',
@@ -80,9 +80,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Platzi',
+			icon: 'graduation-cap',
+			link: 'https://platzi.com/new-home/',
 		},
 		{
 			id: '6',
