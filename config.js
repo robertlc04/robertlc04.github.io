@@ -74,9 +74,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Refold',
+			name: 'Descompila',
 			icon: 'book',
-			link: 'https://refold.la/es/',
+			link: 'https://descomplica.com.br/',
 		},
 		{
 			id: '5',
