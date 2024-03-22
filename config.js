@@ -76,7 +76,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Descompila',
 			icon: 'book',
-			link: 'https://descomplica.com.br/',
+			link: 'https://descomplica.com.br/vestibulares-enem/inicio',
 		},
 		{
 			id: '5',
